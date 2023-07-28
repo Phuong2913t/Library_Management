@@ -8,3 +8,13 @@ C:\Users\pc\Desktop\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCom
 C:\Users\pc\Desktop\LibraryManagement\obj\Debug\LibraryManagement.exe
 C:\Users\pc\Desktop\LibraryManagement\obj\Debug\LibraryManagement.pdb
 C:\Users\pc\Desktop\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+C:\Users\pc\Desktop\Library_Management\bin\Debug\LibraryManagement.exe.config
+C:\Users\pc\Desktop\Library_Management\bin\Debug\LibraryManagement.exe
+C:\Users\pc\Desktop\Library_Management\bin\Debug\LibraryManagement.pdb
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.Form1.resources
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.exe
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.pdb
