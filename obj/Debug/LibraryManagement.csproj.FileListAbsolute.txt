@@ -18,3 +18,4 @@ C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.csproj.Genera
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.exe
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.pdb
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.Dasboard.resources
