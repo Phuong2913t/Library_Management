@@ -29,5 +29,11 @@ namespace LibraryManagement
                 Application.Exit();
             }
         }
+
+        private void addNewBooksToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AddBooks abs = new AddBooks();
+            abs.Show();
+        }
     }
 }

@@ -19,3 +19,4 @@ C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.csproj.CoreCo
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.exe
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.pdb
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.Dasboard.resources
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.AddBooks.resources
