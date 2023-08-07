@@ -35,5 +35,11 @@ namespace LibraryManagement
             AddBooks abs = new AddBooks();
             abs.Show();
         }
+
+        private void viewBooksToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ViewBook vb = new ViewBook();
+            vb.Show();
+        }
     }
 }
