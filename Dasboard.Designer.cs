@@ -89,6 +89,7 @@ namespace LibraryManagement
             this.viewBooksToolStripMenuItem.Name = "viewBooksToolStripMenuItem";
             this.viewBooksToolStripMenuItem.Size = new System.Drawing.Size(254, 56);
             this.viewBooksToolStripMenuItem.Text = "View books";
+            this.viewBooksToolStripMenuItem.Click += new System.EventHandler(this.viewBooksToolStripMenuItem_Click);
             // 
             // studentToolStripMenuItem
             // 
