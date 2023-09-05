@@ -21,3 +21,4 @@ C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.pdb
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.Dasboard.resources
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.AddBooks.resources
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.ViewBook.resources
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.AddStudent.resources
