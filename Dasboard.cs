@@ -41,5 +41,11 @@ namespace LibraryManagement
             ViewBook vb = new ViewBook();
             vb.Show();
         }
+
+        private void addStudentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AddStudent ads = new AddStudent();
+            ads.Show();
+        }
     }
 }
