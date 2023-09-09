@@ -108,7 +108,7 @@ namespace LibraryManagement
             this.addStudentToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("addStudentToolStripMenuItem.Image")));
             this.addStudentToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.addStudentToolStripMenuItem.Name = "addStudentToolStripMenuItem";
-            this.addStudentToolStripMenuItem.Size = new System.Drawing.Size(254, 56);
+            this.addStudentToolStripMenuItem.Size = new System.Drawing.Size(237, 56);
             this.addStudentToolStripMenuItem.Text = "Add student";
             this.addStudentToolStripMenuItem.Click += new System.EventHandler(this.addStudentToolStripMenuItem_Click);
             // 
@@ -117,7 +117,7 @@ namespace LibraryManagement
             this.viewStudentInfoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("viewStudentInfoToolStripMenuItem.Image")));
             this.viewStudentInfoToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.viewStudentInfoToolStripMenuItem.Name = "viewStudentInfoToolStripMenuItem";
-            this.viewStudentInfoToolStripMenuItem.Size = new System.Drawing.Size(254, 56);
+            this.viewStudentInfoToolStripMenuItem.Size = new System.Drawing.Size(237, 56);
             this.viewStudentInfoToolStripMenuItem.Text = "View student info";
             this.viewStudentInfoToolStripMenuItem.Click += new System.EventHandler(this.viewStudentInfoToolStripMenuItem_Click);
             // 
@@ -128,6 +128,7 @@ namespace LibraryManagement
             this.issueBookToolStripMenuItem.Name = "issueBookToolStripMenuItem";
             this.issueBookToolStripMenuItem.Size = new System.Drawing.Size(149, 54);
             this.issueBookToolStripMenuItem.Text = "Issue Books";
+            this.issueBookToolStripMenuItem.Click += new System.EventHandler(this.issueBookToolStripMenuItem_Click);
             // 
             // returnBooksToolStripMenuItem
             // 
@@ -137,6 +138,7 @@ namespace LibraryManagement
             this.returnBooksToolStripMenuItem.Name = "returnBooksToolStripMenuItem";
             this.returnBooksToolStripMenuItem.Size = new System.Drawing.Size(160, 54);
             this.returnBooksToolStripMenuItem.Text = "Return Books";
+            this.returnBooksToolStripMenuItem.Click += new System.EventHandler(this.returnBooksToolStripMenuItem_Click);
             // 
             // completeBookDetailsToolStripMenuItem
             // 
