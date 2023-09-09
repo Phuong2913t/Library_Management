@@ -23,3 +23,5 @@ C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.AddBooks.reso
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.ViewBook.resources
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.AddStudent.resources
 C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.ViewStudent.resources
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.IssueBook.resources
+C:\Users\pc\Desktop\Library_Management\obj\Debug\LibraryManagement.ReturnBook.resources
