@@ -34,6 +34,7 @@ namespace LibraryManagement
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.label10 = new System.Windows.Forms.Label();
             this.btnExit = new System.Windows.Forms.Button();
             this.btnRefresh = new System.Windows.Forms.Button();
             this.btnSearch = new System.Windows.Forms.Button();
@@ -56,7 +57,6 @@ namespace LibraryManagement
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
@@ -113,6 +113,16 @@ namespace LibraryManagement
             this.panel2.Size = new System.Drawing.Size(263, 368);
             this.panel2.TabIndex = 1;
             // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(52, 154);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(169, 20);
+            this.label10.TabIndex = 15;
+            this.label10.Text = "Enter Enrollement No";
+            // 
             // btnExit
             // 
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -145,6 +155,7 @@ namespace LibraryManagement
             this.btnSearch.TabIndex = 2;
             this.btnSearch.Text = "Search Student";
             this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // txtSearchStudent
             // 
@@ -361,16 +372,6 @@ namespace LibraryManagement
             this.label2.TabIndex = 0;
             this.label2.Text = "Student Name";
             // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(52, 154);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(169, 20);
-            this.label10.TabIndex = 15;
-            this.label10.Text = "Enter Enrollement No";
-            // 
             // IssueBook
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -383,6 +384,7 @@ namespace LibraryManagement
             this.Name = "IssueBook";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "IssueBook";
+            this.Load += new System.EventHandler(this.IssueBook_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
